@@ -1,4 +1,5 @@
 (R) IBM XGA-2/Nth Double Edge Windows NT 3.5/3.51 Video Device Driver
+This is a fork of Ryan Alswede's IBM XGA-2 Windows NT 4.0 Video Device driver.
 Copyright (C) 2024
 Developed by Christian Holzapfel & Ryan Alswede
 All Rights Reserved
