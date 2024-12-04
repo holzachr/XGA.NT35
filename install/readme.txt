@@ -1,4 +1,3 @@
-```
 (R) IBM XGA-2/Nth Double Edge Windows NT 3.5/3.51 Video Device Driver
 Copyright (C) 2024
 Developed by Christian Holzapfel & Ryan Alswede
@@ -49,7 +48,8 @@ driver loaded already, you have to find a way:
 KNOWN ISSUES:
 When testing modes between 256 colors and 65536 colors, the color of the GUI can become out of sync.
 This will correct itself once you choose and apply your final color and reboot.
-```
+
+
 
 
 
