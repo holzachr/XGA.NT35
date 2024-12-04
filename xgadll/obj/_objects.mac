@@ -1,0 +1,30 @@
+ALPHA_OBJECTS=
+
+PASS0_ALPHA_OBJECTS=
+
+MIPS_OBJECTS=
+
+PASS0_MIPS_OBJECTS=
+
+386_OBJECTS= \
+obj\i386\res.res \
+obj\i386\bitblt.obj \
+obj\i386\color.obj \
+obj\i386\debug.obj \
+obj\i386\enable.obj \
+obj\i386\hardware.obj \
+obj\i386\mm.obj \
+obj\i386\palette.obj \
+obj\i386\paths.obj \
+obj\i386\pattern.obj \
+obj\i386\pointer.obj \
+obj\i386\screen.obj \
+obj\i386\textout.obj \
+obj\i386\xgasup.obj
+
+PASS0_386_OBJECTS=
+
+PPC_OBJECTS=
+
+PASS0_PPC_OBJECTS=
+
